@@ -5457,6 +5457,16 @@ ember-resolver@^8.0.2:
     ember-cli-version-checker "^5.1.1"
     resolve "^1.17.0"
 
+ember-resources@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/ember-resources/-/ember-resources-3.2.0.tgz#2f0ce3d0a5e9d75b93708295a780b2fc6f158598"
+  integrity sha512-1UWpFwF4cmiWndF701Onc4okgtQ3fiaTwsoKlmUsM7YUOhEHgjMjaZBPU/VeyrQNrOagj99iyZthju14Xz7j1A==
+  dependencies:
+    "@ember/test-waiters" "^3.0.0"
+    ember-cli-babel "^7.26.6"
+    ember-cli-htmlbars "^5.7.1"
+    ember-cli-typescript "^4.2.1"
+
 ember-rfc176-data@^0.3.13, ember-rfc176-data@^0.3.15, ember-rfc176-data@^0.3.17:
   version "0.3.17"
   resolved "https://registry.yarnpkg.com/ember-rfc176-data/-/ember-rfc176-data-0.3.17.tgz#d4fc6c33abd6ef7b3440c107a28e04417b49860a"

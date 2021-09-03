@@ -25,7 +25,8 @@
       "ember-resources-type-issue/*": ["app/*"],
       "*": ["types/*"]
     },
-    "strict": true
+    "strict": true,
+    "strictFunctionTypes": true
   },
   "include": ["app/**/*", "tests/**/*", "types/**/*"]
 }
